@@ -1,5 +1,5 @@
 # BoiledWaterDagger
-Google Dagger Example (it isefull or not?!?)
+Google Dagger Example (it is usefull or not?!?)
 
 is it really usefull to use Google Dagger in quite simple situation? 
 is it only annotation or the code overhead is something more?
